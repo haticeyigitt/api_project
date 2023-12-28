@@ -1,0 +1,8 @@
+.vscode
+.venv
+
+# configurations
+config
+__pycache__
+
+
